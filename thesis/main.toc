@@ -1,0 +1,22 @@
+\contentsline {chapter}{\numberline {摘 要}{}}{I}{section*.1}%
+\contentsline {chapter}{\numberline {Abstract}{}}{II}{section*.2}%
+\contentsline {chapter}{\numberline {目 录}{}}{III}{section*.3}%
+\contentsline {chapter}{\numberline {第\CJKnumber {1}章}引言}{1}{chapter.1}%
+\contentsline {section}{\numberline {第\CJKnumber {1}节}背景与意义}{1}{section.1.1}%
+\contentsline {section}{\numberline {第\CJKnumber {2}节}国内外研究成果}{1}{section.1.2}%
+\contentsline {chapter}{\numberline {第\CJKnumber {2}章}ECAPA-TDNN模型}{4}{chapter.2}%
+\contentsline {section}{\numberline {第\CJKnumber {1}节}SE-Res2Block模块}{4}{section.2.1}%
+\contentsline {section}{\numberline {第\CJKnumber {2}节}多层特征聚合和求和}{5}{section.2.2}%
+\contentsline {section}{\numberline {第\CJKnumber {3}节}通道和上下文依赖的统计池化层}{5}{section.2.3}%
+\contentsline {chapter}{\numberline {第\CJKnumber {3}章}损失函数}{6}{chapter.3}%
+\contentsline {section}{\numberline {第\CJKnumber {1}节}交叉熵和相对熵}{6}{section.3.1}%
+\contentsline {section}{\numberline {第\CJKnumber {2}节}Softmax及其改进}{6}{section.3.2}%
+\contentsline {chapter}{\numberline {第\CJKnumber {4}章}实验及结果}{8}{chapter.4}%
+\contentsline {section}{\numberline {第\CJKnumber {1}节}数据准备}{8}{section.4.1}%
+\contentsline {section}{\numberline {第\CJKnumber {2}节}实验设置}{9}{section.4.2}%
+\contentsline {section}{\numberline {第\CJKnumber {3}节}实验结果}{9}{section.4.3}%
+\contentsline {chapter}{\numberline {第\CJKnumber {5}章}系统部署}{12}{chapter.5}%
+\contentsline {section}{\numberline {第\CJKnumber {1}节}系统设计}{12}{section.5.1}%
+\contentsline {section}{\numberline {第\CJKnumber {2}节}功能实现}{12}{section.5.2}%
+\contentsline {section}{\numberline {第\CJKnumber {3}节}系统测试}{13}{section.5.3}%
+\contentsline {chapter}{\numberline {致\hskip 1em\relax 谢}{}}{XIV}{section*.4}%
